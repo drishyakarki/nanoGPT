@@ -1,0 +1,3 @@
+venv/
+data/TinyStories-train.txt
+data/TinyStories-valid.txt
